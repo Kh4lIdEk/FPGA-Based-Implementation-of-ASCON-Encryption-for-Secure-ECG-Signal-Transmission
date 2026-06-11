@@ -1,0 +1,21 @@
+# ============================================================
+# IACQ Project — Dépendances Python
+# Généré le 2026-03-25
+# Compatible Python 3.10+
+# ============================================================
+
+# --- Traitement des données ---
+numpy>=1.26.0
+pandas>=2.0.0
+
+# --- Traitement du signal ---
+scipy>=1.11.0
+
+# --- Analyse physiologique (ECG, signaux bio) ---
+neurokit2>=0.2.10
+
+# --- Visualisation ---
+matplotlib>=3.7.0
+
+# --- Tests ---
+pytest>=7.0.0
